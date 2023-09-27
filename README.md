@@ -2,8 +2,10 @@
 ## 안녕하세요😊
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=LearingDevops&fontSize=90)
 <br/>
-<img src="https://img.shields.io/badge/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%9D%B4%EC%A4%80%ED%98%B8%EC%9E%85%EB%8B%88%EB%8B%A4-blue"/><br/>
-![CSS](https://img.shields.io/badge/CSS-skyblue)![CSS](https://img.shields.io/badge/HTML-red)
+![CSS](https://img.shields.io/badge/CSS-skyblue?style=for-the-badge&logo=css3&logoColor=white)<img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white">![MARKDOWN](https://img.shields.io/badge/MARKDOWN-black?style=for-the-badge&logo=markdown&logoColor=white)<br/>
+- Work **hard**👊 Live **nice**🍻
+- Keep <ins>**practicing**</ins>  Lauguages such as <i>**En, Ja and S/W**</i>💯
+- **Settle down** to anywhere that I can live peacefully👪
 
 [![Heyjune3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heyjune3&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heyjune3)](https://github.com/anuraghazra/github-readme-stats)
