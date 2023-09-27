@@ -6,7 +6,7 @@
 - Work **hard**👊 Live **nice**🍻
 - Keep <ins>**practicing**</ins>  Lauguages such as <i>**En, Ja and S/W**</i>💯
 - **Settle down** to anywhere that I can live peacefully👪
-
+<br/><hr/>
 [![Heyjune3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heyjune3&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heyjune3)](https://github.com/anuraghazra/github-readme-stats)
 
