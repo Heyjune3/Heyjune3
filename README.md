@@ -6,8 +6,7 @@
 ![CSS](https://img.shields.io/badge/CSS-skyblue)![CSS](https://img.shields.io/badge/HTML-red)
 
 [![Heyjune3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heyjune3&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heyjune3)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
