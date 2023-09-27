@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## 안녕하세요😊
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <img src="https://img.shields.io/badge/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EC%9D%B4%EC%A4%80%ED%98%B8%EC%9E%85%EB%8B%88%EB%8B%A4-blue"/>
 
 ![CSS](https://img.shields.io/badge/CSS-skyblue)![CSS](https://img.shields.io/badge/HTML-red)
