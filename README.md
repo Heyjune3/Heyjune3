@@ -2,7 +2,7 @@
 ## 안녕하세요😊
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=LearingDevops&fontSize=90)
 <br/>
-![CSS](https://img.shields.io/badge/CSS-skyblue?style=for-the-badge&logo=css3&logoColor=white)<img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white">![MARKDOWN](https://img.shields.io/badge/MARKDOWN-black?style=for-the-badge&logo=markdown&logoColor=white)<br/>
+![CSS](https://img.shields.io/badge/CSS-skyblue?style=for-the-badge&logo=css3&logoColor=white)<img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white">![MARKDOWN](https://img.shields.io/badge/MARKDOWN-black?style=for-the-badge&logo=markdown&logoColor=white)![JAVA](https://img.shields.io/badge/JAVA-yellow?style=for-the-badge&logo=eclipseide&logoColor=white)<br/>
 - Work **hard**👊 Live **nice**🍻
 - Keep <ins>**practicing**</ins>  Lauguages such as <i>**En, Ja and S/W**</i>💯
 - **Settle down** to anywhere that I can live peacefully👪
